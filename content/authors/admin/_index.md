@@ -71,6 +71,6 @@ highlight_name: true
 
 主要研究方向：云原生、机器学习、大数据
 
-2017.09 - 2021.06就读于大连海事大学
+2017.09 - 2021.06 就读于大连海事大学
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
