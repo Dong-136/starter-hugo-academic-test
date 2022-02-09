@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,15 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: 897645159@qq.com
+phone: 155 9901 0238
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 平泉街 399号
+  city: 苏州
+  country: 中国
+  country_code: CHN
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
